@@ -1,4 +1,5 @@
 let todos = [];
+
 window.addEventListener("DOMContentLoaded", () => {
   const saved = localStorage.getItem("todos");
   if (saved) {
@@ -37,6 +38,11 @@ function saveToLocalStorage() {
 
 function renderTodos() {
   list.innerHTML = "";
+
+let pendingCount = todos.filter(todo => !todo.completed).length;
+let completedCount = todos.filter(todo => todo.completed).length;
+document.getElementById("pending-count").textContent = pendingCount;
+document.getElementById("completed-count").textContent = completedCount;
   
 
   todos.forEach((todo, index) => {
