@@ -2,7 +2,7 @@
 
 A clean and responsive **Registration Form** built with **HTML5** and **CSS3**, designed as part of the **Module 12 Assignment**.
 
-**GitHub Repository**: [https://github.com/tonmoysohaib/Module_12_Assignment]
+**GitHub Repository**: [Registration Form](https://github.com/tonmoysohaib/Module_12_Assignment/tree/main/Task-1)
 
 
 ## 🎯 Features
@@ -31,4 +31,5 @@ A clean and responsive **Registration Form** built with **HTML5** and **CSS3**, 
 Module_12_Assignment/
 ├── index.html
 ├── style.css
+
 └── README.md
