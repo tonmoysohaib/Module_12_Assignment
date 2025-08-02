@@ -2,7 +2,7 @@
 
 A feature-rich **Todo List App** built with **HTML**, **Bootstrap**, and **JavaScript**, including localStorage support and full CRUD operations.
 
-📂 **GitHub Repository**: [https://github.com/tonmoysohaib/Module_12_Assignment](https://github.com/tonmoysohaib/Module_12_Assignment)
+📂  **GitHub Folder**: [Task-2 on GitHub](https://github.com/tonmoysohaib/Module_12_Assignment/tree/main/Task-2)
 
 ---
 
@@ -41,4 +41,5 @@ Module_12_Assignment/
 
 🧑‍💻 Author
 Tonmoy Sohaib
+
 GitHub: @tonmoysohaib
