@@ -39,10 +39,11 @@ Module_12_Assignment/
 ---
 
 ## 📸 Screenshots
-![Screenshot of Registration Form](screenshot.png)
+![Screenshot of Registration Form](Screenshot.png)
 
 
 👨‍💻 Author
 Tonmoy Sohaib
 GitHub: https://github.com/tonmoysohaib
+
 
